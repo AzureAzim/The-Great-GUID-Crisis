@@ -1,6 +1,6 @@
 # ⚠️ The Great GUID Crisis: A Dire Warning for All IT Professionals ⚠️
 
-## The End of Uniqueness Is Near
+## The End of Uniqueness Is Near DONATE NOW
 
 **Attention, colleagues:**
 
@@ -92,6 +92,14 @@ Every day, GUIDs are consumed by the relentless march of digital inefficiency. H
 
 - **Educate Your Team:**  
   Share this warning. The GUID crisis is everyone’s problem.
+
+
+  ###DONATE NOW
+  <form>
+  Donate a GUID
+<label for="GUID">Name:</label>
+<input type="text" id="GUID" name="name">
+</form>
 
 ---
 
