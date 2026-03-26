@@ -94,12 +94,6 @@ Every day, GUIDs are consumed by the relentless march of digital inefficiency. H
   Share this warning. The GUID crisis is everyone’s problem.
 
 
-  ###DONATE NOW
-  <form>
-  Donate a GUID
-<label for="GUID">Name:</label>
-<input type="text" id="GUID" name="name">
-</form>
 
 ---
 
